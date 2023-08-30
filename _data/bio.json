@@ -10,9 +10,8 @@
     "location": { "address": "", "postalCode": "96797", "city": "Waipio", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "Tanner Berry", "url": "https://www.linkedin.com/in/tanner-berry-45ba26289/" },
-    
-    ]
+      { "network": "linkedin", "username": "Tanner Berry", "url": "https://www.linkedin.com/in/tanner-berry-45ba26289/" }
+     ]
   },
   "interests": [
     { "name": "Computer Aided Design" },
@@ -35,9 +34,7 @@
       "area": "Computer Science ",
       "studyType": "B.S.",
       "startDate": "2020-01-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "endDate": "Present"
     }
   ],
   "work": [
@@ -72,7 +69,7 @@
       "date": "2019",
       "awarder": "United States Navy",
       "summary": "Medal awarded for creating and teaching new 3D printing courses and helping write policies for creating new 3D printing job field in the Navy and Marine Corp."
-    },
+    }
   ],
   "references": [
     {
