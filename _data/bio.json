@@ -9,11 +9,9 @@
     "summary": "I am studying for a B.S. in Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96797", "city": "Waipio", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
-    ]
+      { "network": "github", "username": "TannerBerry", "url": "http://github.com/TannerBerry" },
+      { "network": "linkedin", "username": "TannerBerry", "url": "http://linkedin.com/in/tanner-berry" }
+     ]
   },
   "interests": [
     { "name": "Computer Aided Design" },
