@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96797", "city": "Waipio", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "TannerBerry", "url": "http://github.com/TannerBerry" },
-      { "network": "linkedin", "username": "TannerBerry", "url": "https://www.linkedin.com/in/tanner-berry-45ba26289" }
+      { "network": "linkedin", "username": "TannerBerry", "url": "http://linkedin.com/in/tanner-berry" }
      ]
   },
   "interests": [
