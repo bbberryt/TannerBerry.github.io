@@ -9,8 +9,8 @@
     "summary": "I am studying for a B.S. in Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "96797", "city": "Waipio", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "Tanner Berry", "url": "https://www.linkedin.com/in/tanner-berry-45ba26289/" }
+      { "network": "github", "username": "TannerBerry", "url": "http://github.com/TannerBerry" },
+      { "network": "linkedin", "username": "TannerBerry", "url": "https://www.linkedin.com/in/tanner-berry-45ba26289" }
      ]
   },
   "interests": [
@@ -19,7 +19,8 @@
     { "name": "3D Printing" }
   ],
   "skills": [
-    {"name": "Languages and Frameworks",
+    {
+      "name": "Languages and Frameworks",
      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {"name": "Toolsets/OS",
